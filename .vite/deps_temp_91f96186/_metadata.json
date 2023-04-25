@@ -1,0 +1,59 @@
+{
+  "hash": "ed74d14b",
+  "browserHash": "87e2c84d",
+  "optimized": {
+    "svelte/animate": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/animate/index.mjs",
+      "file": "svelte_animate.js",
+      "fileHash": "b6a4c555",
+      "needsInterop": false
+    },
+    "svelte/easing": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/easing/index.mjs",
+      "file": "svelte_easing.js",
+      "fileHash": "956456bf",
+      "needsInterop": false
+    },
+    "svelte/internal": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/internal/index.mjs",
+      "file": "svelte_internal.js",
+      "fileHash": "77908ab3",
+      "needsInterop": false
+    },
+    "svelte/motion": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/motion/index.mjs",
+      "file": "svelte_motion.js",
+      "fileHash": "b8591a1b",
+      "needsInterop": false
+    },
+    "svelte/store": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/store/index.mjs",
+      "file": "svelte_store.js",
+      "fileHash": "46362247",
+      "needsInterop": false
+    },
+    "svelte/transition": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/transition/index.mjs",
+      "file": "svelte_transition.js",
+      "fileHash": "476222b6",
+      "needsInterop": false
+    },
+    "svelte": {
+      "src": "../../node_modules/.deno/svelte@3.58.0/node_modules/svelte/index.mjs",
+      "file": "svelte.js",
+      "fileHash": "89851889",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JA7XZQDO": {
+      "file": "chunk-JA7XZQDO.js"
+    },
+    "chunk-LUJAGYSZ": {
+      "file": "chunk-LUJAGYSZ.js"
+    },
+    "chunk-D4ANU4HV": {
+      "file": "chunk-D4ANU4HV.js"
+    }
+  }
+}
